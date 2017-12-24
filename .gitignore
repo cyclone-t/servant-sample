@@ -1,0 +1,8 @@
+.stack-work
+*_flymake.hs
+src/*_flymake.hs
+src/*.hi
+src/*.o
+src/*.dyn_hi
+src/*.dyn_o
+
